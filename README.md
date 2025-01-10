@@ -4,11 +4,11 @@
 🎬 Netflix Clone
 A responsive Netflix UI clone built with HTML, CSS,  This project replicates the popular streaming platform’s interface, providing a clean and modern user experience.
 
-🚀 Features
-✅ Responsive Design – Works seamlessly on all devices.
-✅ Smooth UI & Animations – Replicates Netflix's modern feel.
-✅ Movie Thumbnails & Banners – Displays a collection of movies.
-✅ Hover Effects – Interactive elements for a sleek look.
+🚀 Features<br>
+✅ Responsive Design – Works seamlessly on all devices.<br>
+✅ Smooth UI & Animations – Replicates Netflix's modern feel.<br>
+✅ Movie Thumbnails & Banners – Displays a collection of movies.<br>
+✅ Hover Effects – Interactive elements for a sleek look.<br>
 
 🛠️ Technologies Used
 HTML5
